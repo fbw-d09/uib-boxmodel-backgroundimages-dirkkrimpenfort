@@ -7,8 +7,27 @@ header {
     height: 30%;
 }
 
+.hauptbox{
+    
+    margin-top: 2px;
+    display: block;
+    height: 300px;
+    width: 100%;
+    border: 0.5px solid black;
+
+}
+
 h1 {
+    
     text-align: center;
     color: white;
     margin: 0;
+}
+
+
+
+.box {
+    background-image: url(/task-1/assets/background.jpg);
+    background-size: contain;
+    height: 150px;
 }
